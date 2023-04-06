@@ -9,10 +9,10 @@ Footer START -->
 			<div class="col-lg-3">
 				<!-- logo -->
 				<a class="me-0" href="index.html">
-					<img class="light-mode-item h-40px" src="https://eduport.webestica.com/assets/images/logo.svg" alt="logo">
-					<img class="dark-mode-item h-40px" src="https://eduport.webestica.com/assets/images/logo-light.svg" alt="logo">
+					<img class="light-mode-item h-40px" src="{{asset('assets/image/logo_team.png')}}" alt="logo">
+					<img class="dark-mode-item h-40px" src="{{asset('assets/image/logo_team.png')}}" alt="logo">
 				</a>
-				<p class="my-3">Eduport education theme, built specifically for the education centers which is dedicated to teaching and involve learners.</p>
+				<p class="my-3">Text sample text sample text sample text sample.</p>
 				<!-- Social media icon -->
 				<ul class="list-inline mb-0 mt-3">
 					<li class="list-inline-item"> <a class="btn btn-white btn-sm shadow px-2 text-facebook" href="#"><i class="fab fa-fw fa-facebook-f"></i></a> </li>
@@ -67,11 +67,10 @@ Footer START -->
 				<h5 class="mb-2 mb-md-4">Contact</h5>
 				<!-- Time -->
 				<p class="mb-2">
-					Toll free:<span class="h6 fw-light ms-2">+1234 568 963</span>
-					<span class="d-block small">(9:AM to 8:PM IST)</span>
+					Toll free:<span class="h6 fw-light ms-2">+65 82280955</span>
 				</p>
 
-				<p class="mb-0">Email:<span class="h6 fw-light ms-2">example@gmail.com</span></p>
+				<p class="mb-0">Email:<span class="h6 fw-light ms-2">admin@ateammedic.com</span></p>
 
 				<div class="row g-2 mt-2">
 					<!-- Google play store button -->
@@ -95,7 +94,7 @@ Footer START -->
 			<div class="container px-0">
 				<div class="d-lg-flex justify-content-between align-items-center py-3 text-center text-md-left">
 					<!-- copyright text -->
-					<div class="text-primary-hover"> Copyrights <a href="https://www.webestica.com/" target="_blank" class="text-body">©2023 Webestica</a>. All rights reserved. </div>
+					<div class="text-primary-hover"> Copyrights <a href="" target="_blank" class="text-body">©{{date('Y')}} KGDR</a>. All rights reserved. </div>
 					<!-- copyright links-->
 					<div class="justify-content-center mt-3 mt-lg-0">
 						<ul class="nav list-inline justify-content-center mb-0">
@@ -106,9 +105,9 @@ Footer START -->
 										<i class="fas fa-globe me-2"></i>Language
 									</a>
 									<ul class="dropdown-menu min-w-auto" aria-labelledby="languageSwitcher">
-										<li><a class="dropdown-item me-4" href="#"><img class="fa-fw me-2" src="https://eduport.webestica.com/assets/images/flags/uk.svg" alt="">English</a></li>
-										<li><a class="dropdown-item me-4" href="#"><img class="fa-fw me-2" src="https://eduport.webestica.com/assets/images/flags/gr.svg" alt="">German </a></li>
-										<li><a class="dropdown-item me-4" href="#"><img class="fa-fw me-2" src="https://eduport.webestica.com/assets/images/flags/sp.svg" alt="">French</a></li>
+										<li><a class="dropdown-item me-4" href="#"><img class="fa-fw me-2" src="" alt="">English</a></li>
+										<li><a class="dropdown-item me-4" href="#"><img class="fa-fw me-2" src="" alt="">German </a></li>
+										<li><a class="dropdown-item me-4" href="#"><img class="fa-fw me-2" src="" alt="">French</a></li>
 									</ul>
 								</div>
 							</li>

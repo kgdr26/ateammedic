@@ -71,7 +71,7 @@
         </script>
 
         <!-- Favicon -->
-        <link rel="shortcut icon" href="https://eduport.webestica.com/assets/images/favicon.ico">
+        <link rel="shortcut icon" href="{{asset('assets/image/icon_team.png')}}">
 
         <!-- Google Font -->
         <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -79,8 +79,10 @@
         <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Heebo:wght@400;500;700&family=Roboto:wght@400;500;700&display=swap">
 
         <!-- Plugins CSS -->
-        <link rel="stylesheet" type="text/css" href="{{asset('assets/css/all.min.css')}}">
-        <link rel="stylesheet" type="text/css" href="{{asset('assets/css/bootstrap-icons.css')}}">
+        {{-- <link rel="stylesheet" type="text/css" href="{{asset('assets/css/all.min.css')}}">
+        <link rel="stylesheet" type="text/css" href="{{asset('assets/css/bootstrap-icons.css')}}"> --}}
+        <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+        <link rel="stylesheet" type="text/css" href="https://eduport.webestica.com/assets/vendor/bootstrap-icons/bootstrap-icons.css">
         <link rel="stylesheet" type="text/css" href="{{asset('assets/css/tiny-slider.css')}}">
         <link rel="stylesheet" type="text/css" href="{{asset('assets/css/glightbox.css')}}">
 
