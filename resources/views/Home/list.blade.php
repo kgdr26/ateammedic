@@ -263,7 +263,7 @@ Main Banner START -->
                 </div>
                 <!-- Image -->
                 <div class="position-relative">
-                    <img src="{{asset('assets/image/foto_doctor_diri.png')}}" alt="">
+                    <img src="{{asset('assets/image/img-captain.png')}}" alt="">
                 </div>
             </div>
             <!-- Right content END -->
@@ -384,7 +384,7 @@ Popular course START -->
                     <div class="col-sm-6 col-lg-4 col-xl-3">
                         <div class="card shadow h-100">
                             <!-- Image -->
-                            <img src="{{asset('assets/image/sampleimages.jpeg')}}" class="card-img-top" alt="course image">
+                            <img src="{{asset('assets/image/pc1.jpeg')}}" class="card-img-top" alt="course image">
                             <!-- Card body -->
                             <div class="card-body pb-0">
                                 <!-- Badge and favorite -->
@@ -421,7 +421,7 @@ Popular course START -->
                     <div class="col-sm-6 col-lg-4 col-xl-3">
                         <div class="card shadow h-100">
                             <!-- Image -->
-                            <img src="{{asset('assets/image/sampleimages.jpeg')}}" class="card-img-top" alt="course image">
+                            <img src="{{asset('assets/image/pc2.jpeg')}}" class="card-img-top" alt="course image">
                             <!-- Card body -->
                             <div class="card-body pb-0">
                                 <!-- Badge and favorite -->
@@ -458,7 +458,7 @@ Popular course START -->
                     <div class="col-sm-6 col-lg-4 col-xl-3">
                         <div class="card shadow h-100">
                             <!-- Image -->
-                            <img src="{{asset('assets/image/sampleimages.jpeg')}}" class="card-img-top" alt="course image">
+                            <img src="{{asset('assets/image/pc3.jpeg')}}" class="card-img-top" alt="course image">
                             <!-- Card body -->
                             <div class="card-body pb-0">
                                 <!-- Badge and favorite -->
@@ -495,7 +495,7 @@ Popular course START -->
                     <div class="col-sm-6 col-lg-4 col-xl-3">
                         <div class="card shadow h-100">
                             <!-- Image -->
-                            <img src="{{asset('assets/image/sampleimages.jpeg')}}" class="card-img-top" alt="course image">
+                            <img src="{{asset('assets/image/pc4.jpeg')}}" class="card-img-top" alt="course image">
                             <!-- Card body -->
                             <div class="card-body pb-0">
                                 <!-- Badge and favorite -->
@@ -528,79 +528,6 @@ Popular course START -->
                     </div>
                     <!-- Card item END -->
 
-                    <!-- Card item START -->
-                    <div class="col-sm-6 col-lg-4 col-xl-3">
-                        <div class="card shadow h-100">
-                            <!-- Image -->
-                            <img src="{{asset('assets/image/sampleimages.jpeg')}}" class="card-img-top" alt="course image">
-                            <!-- Card body -->
-                            <div class="card-body pb-0">
-                                <!-- Badge and favorite -->
-                                <div class="d-flex justify-content-between mb-2">
-                                    <a href="#" class="badge bg-purple bg-opacity-10 text-purple">Text</a>
-                                    <a href="#" class="h6 mb-0"><i class="far fa-heart"></i></a>
-                                </div>
-                                <!-- Title -->
-                                <h5 class="card-title fw-normal"><a href="#">Judul Text</a></h5>
-                                <p class="mb-2 text-truncate-2">Description Text.</p>
-                                <!-- Rating star -->
-                                <ul class="list-inline mb-0">
-                                    <li class="list-inline-item me-0 small"><i class="fas fa-star text-warning"></i></li>
-                                    <li class="list-inline-item me-0 small"><i class="fas fa-star text-warning"></i></li>
-                                    <li class="list-inline-item me-0 small"><i class="fas fa-star text-warning"></i></li>
-                                    <li class="list-inline-item me-0 small"><i class="fas fa-star text-warning"></i></li>
-                                    <li class="list-inline-item me-0 small"><i class="far fa-star text-warning"></i></li>
-                                    <li class="list-inline-item ms-2 h6 fw-light mb-0">4.0/5.0</li>
-                                </ul>
-                            </div>
-                            <!-- Card footer -->
-                            <div class="card-footer pt-0 pb-3">
-                                <hr>
-                                <div class="d-flex justify-content-between">
-                                    <span class="h6 fw-light mb-0"><i class="far fa-clock text-danger me-2"></i>Text</span>
-                                    <span class="h6 fw-light mb-0"><i class="fas fa-table text-orange me-2"></i>Text</span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- Card item END -->
-
-                    <!-- Card item START -->
-                    <div class="col-sm-6 col-lg-4 col-xl-3">
-                        <div class="card shadow h-100">
-                            <!-- Image -->
-                            <img src="{{asset('assets/image/sampleimages.jpeg')}}" class="card-img-top" alt="course image">
-                            <!-- Card body -->
-                            <div class="card-body pb-0">
-                                <!-- Badge and favorite -->
-                                <div class="d-flex justify-content-between mb-2">
-                                    <a href="#" class="badge bg-purple bg-opacity-10 text-purple">Text</a>
-                                    <a href="#" class="h6 mb-0"><i class="far fa-heart"></i></a>
-                                </div>
-                                <!-- Title -->
-                                <h5 class="card-title fw-normal"><a href="#">Judul Text</a></h5>
-                                <p class="mb-2 text-truncate-2">Description Text.</p>
-                                <!-- Rating star -->
-                                <ul class="list-inline mb-0">
-                                    <li class="list-inline-item me-0 small"><i class="fas fa-star text-warning"></i></li>
-                                    <li class="list-inline-item me-0 small"><i class="fas fa-star text-warning"></i></li>
-                                    <li class="list-inline-item me-0 small"><i class="fas fa-star text-warning"></i></li>
-                                    <li class="list-inline-item me-0 small"><i class="fas fa-star text-warning"></i></li>
-                                    <li class="list-inline-item me-0 small"><i class="far fa-star text-warning"></i></li>
-                                    <li class="list-inline-item ms-2 h6 fw-light mb-0">4.0/5.0</li>
-                                </ul>
-                            </div>
-                            <!-- Card footer -->
-                            <div class="card-footer pt-0 pb-3">
-                                <hr>
-                                <div class="d-flex justify-content-between">
-                                    <span class="h6 fw-light mb-0"><i class="far fa-clock text-danger me-2"></i>Text</span>
-                                    <span class="h6 fw-light mb-0"><i class="fas fa-table text-orange me-2"></i>Text</span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- Card item END -->
                 </div> <!-- Row END -->
             </div>
             <!-- Content END -->
@@ -612,7 +539,7 @@ Popular course START -->
                     <div class="col-sm-6 col-lg-4 col-xl-3">
                         <div class="card shadow h-100">
                             <!-- Image -->
-                            <img src="{{asset('assets/image/sampleimages.jpeg')}}" class="card-img-top" alt="course image">
+                            <img src="{{asset('assets/image/pc1.jpeg')}}" class="card-img-top" alt="course image">
                             <!-- Card body -->
                             <div class="card-body pb-0">
                                 <!-- Badge and favorite -->
@@ -649,7 +576,81 @@ Popular course START -->
                     <div class="col-sm-6 col-lg-4 col-xl-3">
                         <div class="card shadow h-100">
                             <!-- Image -->
-                            <img src="{{asset('assets/image/sampleimages.jpeg')}}" class="card-img-top" alt="course image">
+                            <img src="{{asset('assets/image/pc2.jpeg')}}" class="card-img-top" alt="course image">
+                            <!-- Card body -->
+                            <div class="card-body pb-0">
+                                <!-- Badge and favorite -->
+                                <div class="d-flex justify-content-between mb-2">
+                                    <a href="#" class="badge bg-purple bg-opacity-10 text-purple">Text</a>
+                                    <a href="#" class="h6 mb-0"><i class="far fa-heart"></i></a>
+                                </div>
+                                <!-- Title -->
+                                <h5 class="card-title fw-normal"><a href="#">Judul Text</a></h5>
+                                <p class="mb-2 text-truncate-2">Description Text.</p>
+                                <!-- Rating star -->
+                                <ul class="list-inline mb-0">
+                                    <li class="list-inline-item me-0 small"><i class="fas fa-star text-warning"></i></li>
+                                    <li class="list-inline-item me-0 small"><i class="fas fa-star text-warning"></i></li>
+                                    <li class="list-inline-item me-0 small"><i class="fas fa-star text-warning"></i></li>
+                                    <li class="list-inline-item me-0 small"><i class="fas fa-star text-warning"></i></li>
+                                    <li class="list-inline-item me-0 small"><i class="far fa-star text-warning"></i></li>
+                                    <li class="list-inline-item ms-2 h6 fw-light mb-0">4.0/5.0</li>
+                                </ul>
+                            </div>
+                            <!-- Card footer -->
+                            <div class="card-footer pt-0 pb-3">
+                                <hr>
+                                <div class="d-flex justify-content-between">
+                                    <span class="h6 fw-light mb-0"><i class="far fa-clock text-danger me-2"></i>Text</span>
+                                    <span class="h6 fw-light mb-0"><i class="fas fa-table text-orange me-2"></i>Text</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Card item END -->
+
+                    <!-- Card item START -->
+                    <div class="col-sm-6 col-lg-4 col-xl-3">
+                        <div class="card shadow h-100">
+                            <!-- Image -->
+                            <img src="{{asset('assets/image/pc3.jpeg')}}" class="card-img-top" alt="course image">
+                            <!-- Card body -->
+                            <div class="card-body pb-0">
+                                <!-- Badge and favorite -->
+                                <div class="d-flex justify-content-between mb-2">
+                                    <a href="#" class="badge bg-purple bg-opacity-10 text-purple">Text</a>
+                                    <a href="#" class="h6 mb-0"><i class="far fa-heart"></i></a>
+                                </div>
+                                <!-- Title -->
+                                <h5 class="card-title fw-normal"><a href="#">Judul Text</a></h5>
+                                <p class="mb-2 text-truncate-2">Description Text.</p>
+                                <!-- Rating star -->
+                                <ul class="list-inline mb-0">
+                                    <li class="list-inline-item me-0 small"><i class="fas fa-star text-warning"></i></li>
+                                    <li class="list-inline-item me-0 small"><i class="fas fa-star text-warning"></i></li>
+                                    <li class="list-inline-item me-0 small"><i class="fas fa-star text-warning"></i></li>
+                                    <li class="list-inline-item me-0 small"><i class="fas fa-star text-warning"></i></li>
+                                    <li class="list-inline-item me-0 small"><i class="far fa-star text-warning"></i></li>
+                                    <li class="list-inline-item ms-2 h6 fw-light mb-0">4.0/5.0</li>
+                                </ul>
+                            </div>
+                            <!-- Card footer -->
+                            <div class="card-footer pt-0 pb-3">
+                                <hr>
+                                <div class="d-flex justify-content-between">
+                                    <span class="h6 fw-light mb-0"><i class="far fa-clock text-danger me-2"></i>Text</span>
+                                    <span class="h6 fw-light mb-0"><i class="fas fa-table text-orange me-2"></i>Text</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Card item END -->
+
+                    <!-- Card item START -->
+                    <div class="col-sm-6 col-lg-4 col-xl-3">
+                        <div class="card shadow h-100">
+                            <!-- Image -->
+                            <img src="{{asset('assets/image/pc4.jpeg')}}" class="card-img-top" alt="course image">
                             <!-- Card body -->
                             <div class="card-body pb-0">
                                 <!-- Badge and favorite -->
@@ -692,7 +693,7 @@ Popular course START -->
                     <div class="col-sm-6 col-lg-4 col-xl-3">
                         <div class="card shadow h-100">
                             <!-- Image -->
-                            <img src="{{asset('assets/image/sampleimages.jpeg')}}" class="card-img-top" alt="course image">
+                            <img src="{{asset('assets/image/pc1.jpeg')}}" class="card-img-top" alt="course image">
                             <!-- Card body -->
                             <div class="card-body pb-0">
                                 <!-- Badge and favorite -->
@@ -729,7 +730,81 @@ Popular course START -->
                     <div class="col-sm-6 col-lg-4 col-xl-3">
                         <div class="card shadow h-100">
                             <!-- Image -->
-                            <img src="{{asset('assets/image/sampleimages.jpeg')}}" class="card-img-top" alt="course image">
+                            <img src="{{asset('assets/image/pc2.jpeg')}}" class="card-img-top" alt="course image">
+                            <!-- Card body -->
+                            <div class="card-body pb-0">
+                                <!-- Badge and favorite -->
+                                <div class="d-flex justify-content-between mb-2">
+                                    <a href="#" class="badge bg-purple bg-opacity-10 text-purple">Text</a>
+                                    <a href="#" class="h6 mb-0"><i class="far fa-heart"></i></a>
+                                </div>
+                                <!-- Title -->
+                                <h5 class="card-title fw-normal"><a href="#">Judul Text</a></h5>
+                                <p class="mb-2 text-truncate-2">Description Text.</p>
+                                <!-- Rating star -->
+                                <ul class="list-inline mb-0">
+                                    <li class="list-inline-item me-0 small"><i class="fas fa-star text-warning"></i></li>
+                                    <li class="list-inline-item me-0 small"><i class="fas fa-star text-warning"></i></li>
+                                    <li class="list-inline-item me-0 small"><i class="fas fa-star text-warning"></i></li>
+                                    <li class="list-inline-item me-0 small"><i class="fas fa-star text-warning"></i></li>
+                                    <li class="list-inline-item me-0 small"><i class="far fa-star text-warning"></i></li>
+                                    <li class="list-inline-item ms-2 h6 fw-light mb-0">4.0/5.0</li>
+                                </ul>
+                            </div>
+                            <!-- Card footer -->
+                            <div class="card-footer pt-0 pb-3">
+                                <hr>
+                                <div class="d-flex justify-content-between">
+                                    <span class="h6 fw-light mb-0"><i class="far fa-clock text-danger me-2"></i>Text</span>
+                                    <span class="h6 fw-light mb-0"><i class="fas fa-table text-orange me-2"></i>Text</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Card item END -->
+
+                    <!-- Card item START -->
+                    <div class="col-sm-6 col-lg-4 col-xl-3">
+                        <div class="card shadow h-100">
+                            <!-- Image -->
+                            <img src="{{asset('assets/image/pc3.jpeg')}}" class="card-img-top" alt="course image">
+                            <!-- Card body -->
+                            <div class="card-body pb-0">
+                                <!-- Badge and favorite -->
+                                <div class="d-flex justify-content-between mb-2">
+                                    <a href="#" class="badge bg-purple bg-opacity-10 text-purple">Text</a>
+                                    <a href="#" class="h6 mb-0"><i class="far fa-heart"></i></a>
+                                </div>
+                                <!-- Title -->
+                                <h5 class="card-title fw-normal"><a href="#">Judul Text</a></h5>
+                                <p class="mb-2 text-truncate-2">Description Text.</p>
+                                <!-- Rating star -->
+                                <ul class="list-inline mb-0">
+                                    <li class="list-inline-item me-0 small"><i class="fas fa-star text-warning"></i></li>
+                                    <li class="list-inline-item me-0 small"><i class="fas fa-star text-warning"></i></li>
+                                    <li class="list-inline-item me-0 small"><i class="fas fa-star text-warning"></i></li>
+                                    <li class="list-inline-item me-0 small"><i class="fas fa-star text-warning"></i></li>
+                                    <li class="list-inline-item me-0 small"><i class="far fa-star text-warning"></i></li>
+                                    <li class="list-inline-item ms-2 h6 fw-light mb-0">4.0/5.0</li>
+                                </ul>
+                            </div>
+                            <!-- Card footer -->
+                            <div class="card-footer pt-0 pb-3">
+                                <hr>
+                                <div class="d-flex justify-content-between">
+                                    <span class="h6 fw-light mb-0"><i class="far fa-clock text-danger me-2"></i>Text</span>
+                                    <span class="h6 fw-light mb-0"><i class="fas fa-table text-orange me-2"></i>Text</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Card item END -->
+
+                    <!-- Card item START -->
+                    <div class="col-sm-6 col-lg-4 col-xl-3">
+                        <div class="card shadow h-100">
+                            <!-- Image -->
+                            <img src="{{asset('assets/image/pc4.jpeg')}}" class="card-img-top" alt="course image">
                             <!-- Card body -->
                             <div class="card-body pb-0">
                                 <!-- Badge and favorite -->
@@ -772,7 +847,118 @@ Popular course START -->
                     <div class="col-sm-6 col-lg-4 col-xl-3">
                         <div class="card shadow h-100">
                             <!-- Image -->
-                            <img src="{{asset('assets/image/sampleimages.jpeg')}}" class="card-img-top" alt="course image">
+                            <img src="{{asset('assets/image/pc1.jpeg')}}" class="card-img-top" alt="course image">
+                            <!-- Card body -->
+                            <div class="card-body pb-0">
+                                <!-- Badge and favorite -->
+                                <div class="d-flex justify-content-between mb-2">
+                                    <a href="#" class="badge bg-purple bg-opacity-10 text-purple">Text</a>
+                                    <a href="#" class="h6 mb-0"><i class="far fa-heart"></i></a>
+                                </div>
+                                <!-- Title -->
+                                <h5 class="card-title fw-normal"><a href="#">Judul Text</a></h5>
+                                <p class="mb-2 text-truncate-2">Description Text.</p>
+                                <!-- Rating star -->
+                                <ul class="list-inline mb-0">
+                                    <li class="list-inline-item me-0 small"><i class="fas fa-star text-warning"></i></li>
+                                    <li class="list-inline-item me-0 small"><i class="fas fa-star text-warning"></i></li>
+                                    <li class="list-inline-item me-0 small"><i class="fas fa-star text-warning"></i></li>
+                                    <li class="list-inline-item me-0 small"><i class="fas fa-star text-warning"></i></li>
+                                    <li class="list-inline-item me-0 small"><i class="far fa-star text-warning"></i></li>
+                                    <li class="list-inline-item ms-2 h6 fw-light mb-0">4.0/5.0</li>
+                                </ul>
+                            </div>
+                            <!-- Card footer -->
+                            <div class="card-footer pt-0 pb-3">
+                                <hr>
+                                <div class="d-flex justify-content-between">
+                                    <span class="h6 fw-light mb-0"><i class="far fa-clock text-danger me-2"></i>Text</span>
+                                    <span class="h6 fw-light mb-0"><i class="fas fa-table text-orange me-2"></i>Text</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Card item END -->
+
+                    <!-- Card item START -->
+                    <div class="col-sm-6 col-lg-4 col-xl-3">
+                        <div class="card shadow h-100">
+                            <!-- Image -->
+                            <img src="{{asset('assets/image/pc2.jpeg')}}" class="card-img-top" alt="course image">
+                            <!-- Card body -->
+                            <div class="card-body pb-0">
+                                <!-- Badge and favorite -->
+                                <div class="d-flex justify-content-between mb-2">
+                                    <a href="#" class="badge bg-purple bg-opacity-10 text-purple">Text</a>
+                                    <a href="#" class="h6 mb-0"><i class="far fa-heart"></i></a>
+                                </div>
+                                <!-- Title -->
+                                <h5 class="card-title fw-normal"><a href="#">Judul Text</a></h5>
+                                <p class="mb-2 text-truncate-2">Description Text.</p>
+                                <!-- Rating star -->
+                                <ul class="list-inline mb-0">
+                                    <li class="list-inline-item me-0 small"><i class="fas fa-star text-warning"></i></li>
+                                    <li class="list-inline-item me-0 small"><i class="fas fa-star text-warning"></i></li>
+                                    <li class="list-inline-item me-0 small"><i class="fas fa-star text-warning"></i></li>
+                                    <li class="list-inline-item me-0 small"><i class="fas fa-star text-warning"></i></li>
+                                    <li class="list-inline-item me-0 small"><i class="far fa-star text-warning"></i></li>
+                                    <li class="list-inline-item ms-2 h6 fw-light mb-0">4.0/5.0</li>
+                                </ul>
+                            </div>
+                            <!-- Card footer -->
+                            <div class="card-footer pt-0 pb-3">
+                                <hr>
+                                <div class="d-flex justify-content-between">
+                                    <span class="h6 fw-light mb-0"><i class="far fa-clock text-danger me-2"></i>Text</span>
+                                    <span class="h6 fw-light mb-0"><i class="fas fa-table text-orange me-2"></i>Text</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Card item END -->
+
+                    <!-- Card item START -->
+                    <div class="col-sm-6 col-lg-4 col-xl-3">
+                        <div class="card shadow h-100">
+                            <!-- Image -->
+                            <img src="{{asset('assets/image/pc3.jpeg')}}" class="card-img-top" alt="course image">
+                            <!-- Card body -->
+                            <div class="card-body pb-0">
+                                <!-- Badge and favorite -->
+                                <div class="d-flex justify-content-between mb-2">
+                                    <a href="#" class="badge bg-purple bg-opacity-10 text-purple">Text</a>
+                                    <a href="#" class="h6 mb-0"><i class="far fa-heart"></i></a>
+                                </div>
+                                <!-- Title -->
+                                <h5 class="card-title fw-normal"><a href="#">Judul Text</a></h5>
+                                <p class="mb-2 text-truncate-2">Description Text.</p>
+                                <!-- Rating star -->
+                                <ul class="list-inline mb-0">
+                                    <li class="list-inline-item me-0 small"><i class="fas fa-star text-warning"></i></li>
+                                    <li class="list-inline-item me-0 small"><i class="fas fa-star text-warning"></i></li>
+                                    <li class="list-inline-item me-0 small"><i class="fas fa-star text-warning"></i></li>
+                                    <li class="list-inline-item me-0 small"><i class="fas fa-star text-warning"></i></li>
+                                    <li class="list-inline-item me-0 small"><i class="far fa-star text-warning"></i></li>
+                                    <li class="list-inline-item ms-2 h6 fw-light mb-0">4.0/5.0</li>
+                                </ul>
+                            </div>
+                            <!-- Card footer -->
+                            <div class="card-footer pt-0 pb-3">
+                                <hr>
+                                <div class="d-flex justify-content-between">
+                                    <span class="h6 fw-light mb-0"><i class="far fa-clock text-danger me-2"></i>Text</span>
+                                    <span class="h6 fw-light mb-0"><i class="fas fa-table text-orange me-2"></i>Text</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Card item END -->
+
+                    <!-- Card item START -->
+                    <div class="col-sm-6 col-lg-4 col-xl-3">
+                        <div class="card shadow h-100">
+                            <!-- Image -->
+                            <img src="{{asset('assets/image/pc4.jpeg')}}" class="card-img-top" alt="course image">
                             <!-- Card body -->
                             <div class="card-body pb-0">
                                 <!-- Badge and favorite -->
@@ -811,42 +997,153 @@ Popular course START -->
             <!-- Content START -->
             <div class="tab-pane fade" id="course-pills-tabs-5" role="tabpanel" aria-labelledby="course-pills-tab-5">
                 <div class="row g-4">
-                    <!-- Card item START -->
-                    <div class="col-sm-6 col-lg-4 col-xl-3">
-                        <div class="card shadow h-100">
-                            <!-- Image -->
-                            <img src="{{asset('assets/image/sampleimages.jpeg')}}" class="card-img-top" alt="course image">
-                            <!-- Card body -->
-                            <div class="card-body pb-0">
-                                <!-- Badge and favorite -->
-                                <div class="d-flex justify-content-between mb-2">
-                                    <a href="#" class="badge bg-purple bg-opacity-10 text-purple">Text</a>
-                                    <a href="#" class="h6 mb-0"><i class="far fa-heart"></i></a>
+                        <!-- Card item START -->
+                        <div class="col-sm-6 col-lg-4 col-xl-3">
+                            <div class="card shadow h-100">
+                                <!-- Image -->
+                                <img src="{{asset('assets/image/pc1.jpeg')}}" class="card-img-top" alt="course image">
+                                <!-- Card body -->
+                                <div class="card-body pb-0">
+                                    <!-- Badge and favorite -->
+                                    <div class="d-flex justify-content-between mb-2">
+                                        <a href="#" class="badge bg-purple bg-opacity-10 text-purple">Text</a>
+                                        <a href="#" class="h6 mb-0"><i class="far fa-heart"></i></a>
+                                    </div>
+                                    <!-- Title -->
+                                    <h5 class="card-title fw-normal"><a href="#">Judul Text</a></h5>
+                                    <p class="mb-2 text-truncate-2">Description Text.</p>
+                                    <!-- Rating star -->
+                                    <ul class="list-inline mb-0">
+                                        <li class="list-inline-item me-0 small"><i class="fas fa-star text-warning"></i></li>
+                                        <li class="list-inline-item me-0 small"><i class="fas fa-star text-warning"></i></li>
+                                        <li class="list-inline-item me-0 small"><i class="fas fa-star text-warning"></i></li>
+                                        <li class="list-inline-item me-0 small"><i class="fas fa-star text-warning"></i></li>
+                                        <li class="list-inline-item me-0 small"><i class="far fa-star text-warning"></i></li>
+                                        <li class="list-inline-item ms-2 h6 fw-light mb-0">4.0/5.0</li>
+                                    </ul>
                                 </div>
-                                <!-- Title -->
-                                <h5 class="card-title fw-normal"><a href="#">Judul Text</a></h5>
-                                <p class="mb-2 text-truncate-2">Description Text.</p>
-                                <!-- Rating star -->
-                                <ul class="list-inline mb-0">
-                                    <li class="list-inline-item me-0 small"><i class="fas fa-star text-warning"></i></li>
-                                    <li class="list-inline-item me-0 small"><i class="fas fa-star text-warning"></i></li>
-                                    <li class="list-inline-item me-0 small"><i class="fas fa-star text-warning"></i></li>
-                                    <li class="list-inline-item me-0 small"><i class="fas fa-star text-warning"></i></li>
-                                    <li class="list-inline-item me-0 small"><i class="far fa-star text-warning"></i></li>
-                                    <li class="list-inline-item ms-2 h6 fw-light mb-0">4.0/5.0</li>
-                                </ul>
-                            </div>
-                            <!-- Card footer -->
-                            <div class="card-footer pt-0 pb-3">
-                                <hr>
-                                <div class="d-flex justify-content-between">
-                                    <span class="h6 fw-light mb-0"><i class="far fa-clock text-danger me-2"></i>Text</span>
-                                    <span class="h6 fw-light mb-0"><i class="fas fa-table text-orange me-2"></i>Text</span>
+                                <!-- Card footer -->
+                                <div class="card-footer pt-0 pb-3">
+                                    <hr>
+                                    <div class="d-flex justify-content-between">
+                                        <span class="h6 fw-light mb-0"><i class="far fa-clock text-danger me-2"></i>Text</span>
+                                        <span class="h6 fw-light mb-0"><i class="fas fa-table text-orange me-2"></i>Text</span>
+                                    </div>
                                 </div>
                             </div>
                         </div>
-                    </div>
-                    <!-- Card item END -->
+                        <!-- Card item END -->
+
+                        <!-- Card item START -->
+                        <div class="col-sm-6 col-lg-4 col-xl-3">
+                            <div class="card shadow h-100">
+                                <!-- Image -->
+                                <img src="{{asset('assets/image/pc2.jpeg')}}" class="card-img-top" alt="course image">
+                                <!-- Card body -->
+                                <div class="card-body pb-0">
+                                    <!-- Badge and favorite -->
+                                    <div class="d-flex justify-content-between mb-2">
+                                        <a href="#" class="badge bg-purple bg-opacity-10 text-purple">Text</a>
+                                        <a href="#" class="h6 mb-0"><i class="far fa-heart"></i></a>
+                                    </div>
+                                    <!-- Title -->
+                                    <h5 class="card-title fw-normal"><a href="#">Judul Text</a></h5>
+                                    <p class="mb-2 text-truncate-2">Description Text.</p>
+                                    <!-- Rating star -->
+                                    <ul class="list-inline mb-0">
+                                        <li class="list-inline-item me-0 small"><i class="fas fa-star text-warning"></i></li>
+                                        <li class="list-inline-item me-0 small"><i class="fas fa-star text-warning"></i></li>
+                                        <li class="list-inline-item me-0 small"><i class="fas fa-star text-warning"></i></li>
+                                        <li class="list-inline-item me-0 small"><i class="fas fa-star text-warning"></i></li>
+                                        <li class="list-inline-item me-0 small"><i class="far fa-star text-warning"></i></li>
+                                        <li class="list-inline-item ms-2 h6 fw-light mb-0">4.0/5.0</li>
+                                    </ul>
+                                </div>
+                                <!-- Card footer -->
+                                <div class="card-footer pt-0 pb-3">
+                                    <hr>
+                                    <div class="d-flex justify-content-between">
+                                        <span class="h6 fw-light mb-0"><i class="far fa-clock text-danger me-2"></i>Text</span>
+                                        <span class="h6 fw-light mb-0"><i class="fas fa-table text-orange me-2"></i>Text</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- Card item END -->
+
+                        <!-- Card item START -->
+                        <div class="col-sm-6 col-lg-4 col-xl-3">
+                            <div class="card shadow h-100">
+                                <!-- Image -->
+                                <img src="{{asset('assets/image/pc3.jpeg')}}" class="card-img-top" alt="course image">
+                                <!-- Card body -->
+                                <div class="card-body pb-0">
+                                    <!-- Badge and favorite -->
+                                    <div class="d-flex justify-content-between mb-2">
+                                        <a href="#" class="badge bg-purple bg-opacity-10 text-purple">Text</a>
+                                        <a href="#" class="h6 mb-0"><i class="far fa-heart"></i></a>
+                                    </div>
+                                    <!-- Title -->
+                                    <h5 class="card-title fw-normal"><a href="#">Judul Text</a></h5>
+                                    <p class="mb-2 text-truncate-2">Description Text.</p>
+                                    <!-- Rating star -->
+                                    <ul class="list-inline mb-0">
+                                        <li class="list-inline-item me-0 small"><i class="fas fa-star text-warning"></i></li>
+                                        <li class="list-inline-item me-0 small"><i class="fas fa-star text-warning"></i></li>
+                                        <li class="list-inline-item me-0 small"><i class="fas fa-star text-warning"></i></li>
+                                        <li class="list-inline-item me-0 small"><i class="fas fa-star text-warning"></i></li>
+                                        <li class="list-inline-item me-0 small"><i class="far fa-star text-warning"></i></li>
+                                        <li class="list-inline-item ms-2 h6 fw-light mb-0">4.0/5.0</li>
+                                    </ul>
+                                </div>
+                                <!-- Card footer -->
+                                <div class="card-footer pt-0 pb-3">
+                                    <hr>
+                                    <div class="d-flex justify-content-between">
+                                        <span class="h6 fw-light mb-0"><i class="far fa-clock text-danger me-2"></i>Text</span>
+                                        <span class="h6 fw-light mb-0"><i class="fas fa-table text-orange me-2"></i>Text</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- Card item END -->
+
+                        <!-- Card item START -->
+                        <div class="col-sm-6 col-lg-4 col-xl-3">
+                            <div class="card shadow h-100">
+                                <!-- Image -->
+                                <img src="{{asset('assets/image/pc4.jpeg')}}" class="card-img-top" alt="course image">
+                                <!-- Card body -->
+                                <div class="card-body pb-0">
+                                    <!-- Badge and favorite -->
+                                    <div class="d-flex justify-content-between mb-2">
+                                        <a href="#" class="badge bg-purple bg-opacity-10 text-purple">Text</a>
+                                        <a href="#" class="h6 mb-0"><i class="far fa-heart"></i></a>
+                                    </div>
+                                    <!-- Title -->
+                                    <h5 class="card-title fw-normal"><a href="#">Judul Text</a></h5>
+                                    <p class="mb-2 text-truncate-2">Description Text.</p>
+                                    <!-- Rating star -->
+                                    <ul class="list-inline mb-0">
+                                        <li class="list-inline-item me-0 small"><i class="fas fa-star text-warning"></i></li>
+                                        <li class="list-inline-item me-0 small"><i class="fas fa-star text-warning"></i></li>
+                                        <li class="list-inline-item me-0 small"><i class="fas fa-star text-warning"></i></li>
+                                        <li class="list-inline-item me-0 small"><i class="fas fa-star text-warning"></i></li>
+                                        <li class="list-inline-item me-0 small"><i class="far fa-star text-warning"></i></li>
+                                        <li class="list-inline-item ms-2 h6 fw-light mb-0">4.0/5.0</li>
+                                    </ul>
+                                </div>
+                                <!-- Card footer -->
+                                <div class="card-footer pt-0 pb-3">
+                                    <hr>
+                                    <div class="d-flex justify-content-between">
+                                        <span class="h6 fw-light mb-0"><i class="far fa-clock text-danger me-2"></i>Text</span>
+                                        <span class="h6 fw-light mb-0"><i class="fas fa-table text-orange me-2"></i>Text</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- Card item END -->
                 </div>
             </div>
             <!-- Content END -->
@@ -924,7 +1221,7 @@ Trending courses START -->
                     <div>
                         <div class="card action-trigger-hover border bg-transparent">
                             <!-- Image -->
-                            <img src="{{asset('assets/image/sampleimages.jpeg')}}" class="card-img-top" alt="course image">
+                            <img src="{{asset('assets/image/img1.jpeg')}}" class="card-img-top" alt="course image">
                             <!-- Ribbon -->
                             {{-- <div class="ribbon mt-3"><span>Free</span></div> --}}
                             <!-- Card body -->
@@ -973,7 +1270,7 @@ Trending courses START -->
                     <div>
                         <div class="card action-trigger-hover border bg-transparent">
                             <!-- Image -->
-                            <img src="{{asset('assets/image/sampleimages.jpeg')}}" class="card-img-top" alt="course image">
+                            <img src="{{asset('assets/image/img2.jpeg')}}" class="card-img-top" alt="course image">
                             <!-- Ribbon -->
                             {{-- <div class="ribbon mt-3"><span>Free</span></div> --}}
                             <!-- Card body -->
@@ -1022,105 +1319,7 @@ Trending courses START -->
                     <div>
                         <div class="card action-trigger-hover border bg-transparent">
                             <!-- Image -->
-                            <img src="{{asset('assets/image/sampleimages.jpeg')}}" class="card-img-top" alt="course image">
-                            <!-- Ribbon -->
-                            {{-- <div class="ribbon mt-3"><span>Free</span></div> --}}
-                            <!-- Card body -->
-                            <div class="card-body pb-0">
-                                <!-- Title -->
-                                <h5 class="card-title"><a href="#">Sample 1</a></h5>
-                                <!-- Rating -->
-                                <div class="d-flex justify-content-between mb-2">
-                                    <div class="hstack gap-2">
-                                        <p class="text-warning m-0">Text<i class="fas fa-star text-warning ms-1"></i></p>
-                                        <span class="small">Text</span>
-                                    </div>
-                                    <div class="hstack gap-2">
-                                        <p class="h6 fw-light mb-0 m-0">Text</p>
-                                        <span class="small">Text</span>
-                                    </div>
-                                </div>
-                                <!-- Time -->
-                                <div class="hstack gap-3">
-                                    <span class="h6 fw-light mb-0"><i class="far fa-clock text-danger me-2"></i>Text</span>
-                                    <span class="h6 fw-light mb-0"><i class="fas fa-table text-orange me-2"></i>Text</span>
-                                </div>
-                            </div>
-                            <!-- Card footer -->
-                            <div class="card-footer pt-0 bg-transparent">
-                                <hr>
-                                <!-- Avatar and Price -->
-                                <div class="d-flex justify-content-between align-items-center">
-                                    <!-- Avatar -->
-                                    <div class="d-flex align-items-center">
-                                        <div class="avatar avatar-sm">
-                                            <img class="avatar-img rounded-1" src="{{asset('assets/image/default.jpg')}}" alt="avatar">
-                                        </div>
-                                        <p class="mb-0 ms-2"><a href="#" class="h6 fw-light mb-0">Kang Dru</a></p>
-                                    </div>
-                                    <!-- Price -->
-                                    <div>
-                                        <h4 class="text-success mb-0 item-show">Text</h4>
-                                        <a href="#" class="btn btn-sm btn-success-soft item-show-hover"><i class="fas fa-shopping-cart me-2"></i>Text</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div>
-                        <div class="card action-trigger-hover border bg-transparent">
-                            <!-- Image -->
-                            <img src="{{asset('assets/image/sampleimages.jpeg')}}" class="card-img-top" alt="course image">
-                            <!-- Ribbon -->
-                            {{-- <div class="ribbon mt-3"><span>Free</span></div> --}}
-                            <!-- Card body -->
-                            <div class="card-body pb-0">
-                                <!-- Title -->
-                                <h5 class="card-title"><a href="#">Sample 1</a></h5>
-                                <!-- Rating -->
-                                <div class="d-flex justify-content-between mb-2">
-                                    <div class="hstack gap-2">
-                                        <p class="text-warning m-0">Text<i class="fas fa-star text-warning ms-1"></i></p>
-                                        <span class="small">Text</span>
-                                    </div>
-                                    <div class="hstack gap-2">
-                                        <p class="h6 fw-light mb-0 m-0">Text</p>
-                                        <span class="small">Text</span>
-                                    </div>
-                                </div>
-                                <!-- Time -->
-                                <div class="hstack gap-3">
-                                    <span class="h6 fw-light mb-0"><i class="far fa-clock text-danger me-2"></i>Text</span>
-                                    <span class="h6 fw-light mb-0"><i class="fas fa-table text-orange me-2"></i>Text</span>
-                                </div>
-                            </div>
-                            <!-- Card footer -->
-                            <div class="card-footer pt-0 bg-transparent">
-                                <hr>
-                                <!-- Avatar and Price -->
-                                <div class="d-flex justify-content-between align-items-center">
-                                    <!-- Avatar -->
-                                    <div class="d-flex align-items-center">
-                                        <div class="avatar avatar-sm">
-                                            <img class="avatar-img rounded-1" src="{{asset('assets/image/default.jpg')}}" alt="avatar">
-                                        </div>
-                                        <p class="mb-0 ms-2"><a href="#" class="h6 fw-light mb-0">Kang Dru</a></p>
-                                    </div>
-                                    <!-- Price -->
-                                    <div>
-                                        <h4 class="text-success mb-0 item-show">Text</h4>
-                                        <a href="#" class="btn btn-sm btn-success-soft item-show-hover"><i class="fas fa-shopping-cart me-2"></i>Text</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div>
-                        <div class="card action-trigger-hover border bg-transparent">
-                            <!-- Image -->
-                            <img src="{{asset('assets/image/sampleimages.jpeg')}}" class="card-img-top" alt="course image">
+                            <img src="{{asset('assets/image/img3.jpeg')}}" class="card-img-top" alt="course image">
                             <!-- Ribbon -->
                             {{-- <div class="ribbon mt-3"><span>Free</span></div> --}}
                             <!-- Card body -->
